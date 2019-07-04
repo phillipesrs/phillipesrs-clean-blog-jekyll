@@ -3,7 +3,8 @@ email:              phillipe@ihaprendi.com
 description:        A Blog by Phillipe Soares
 author:             Phillipe Soares
 baseurl:            ""
-url:                "https://phillipesoares.com.br"
+url:                "https://blog.phillipesoares.com.br"
+baseurl:            ""
 
 # Social Profiles
 twitter_username:   phillipesrs

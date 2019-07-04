@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+gem "jekyll-theme-clean-blog"
+
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-clean-blog"
   spec.version       = "4.0.8"
